@@ -16,6 +16,6 @@ Summary of degrees and professional experiences
 - **Content designer** in the Postgraduate course of Applied Computing in Education (xxxxx-xxxxx)
 - **MSc degree** in Computer Science at the University of São Paulo (2014 - 2017)
 - **Scientific Initiation scholar** at Federal Technology University of Paraná - UTFPR (2012)
-- **Tech.** in Systems Analysis and Development at UTFPR (2010 - 2013)
+- **Techologist** in Systems Analysis and Development at UTFPR (2010 - 2013)
 
 For more details, please check the [Extended Curriculum Vitae in PDF](/assets/pdf/kamila_cv.pdf).
