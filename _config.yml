@@ -258,7 +258,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: [Lyra]
-  first_name: [Kamila T.]
+  first_name: [Kamila T., Kamila Takayama]
 
   style: ieee
   locale: en
