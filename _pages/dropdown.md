@@ -9,11 +9,6 @@ children:
       permalink: /teaching/
     - title: projects
       permalink: /projects/
-    - title: repositories
-      permalink: /repositories/
-    - title: divider
     - title: blog
       permalink: /blog/
-    - title: news
-      permalink: /news/
 ---
